@@ -1,6 +1,6 @@
 package _02_day_DataType;
 
-public class _003_DataTypeConversion {
+public class _03_DataTypeConversion {
     public static void main(String[] args) {
 		/*
 		//数据类型转换之隐式转换

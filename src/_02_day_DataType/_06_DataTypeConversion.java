@@ -1,6 +1,6 @@
 package _02_day_DataType;
 
-public class _006_DataTypeConversion {
+public class _06_DataTypeConversion {
     public static void main(String[] args) {
         System.out.println('a' + 1);//结果是98
         /**
@@ -18,4 +18,5 @@ public class _006_DataTypeConversion {
 
     }
 }
+
 

@@ -1,6 +1,6 @@
 package _02_day_DataType;
 
-public class _005_DataTypeConversion {
+public class _05_DataTypeConversion {
     public static void main(String[] args) {
         float f = 3.14f;
         long x = 123;

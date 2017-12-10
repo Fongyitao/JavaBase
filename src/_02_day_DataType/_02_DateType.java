@@ -1,6 +1,6 @@
 package _02_day_DataType;
 
-public class _002_DateType {
+public class _02_DateType {
     public static void main(String[] args) {
 		/*
 		* a:作用域问题

@@ -1,6 +1,6 @@
 package _02_day_DataType;
 
-public class _001_DataType {
+public class _01_DataType {
     public static void main(String[] args) {
         //整数类型
         byte b = 10; 	//占一个字节，-128到127

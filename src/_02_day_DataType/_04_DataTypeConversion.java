@@ -1,6 +1,6 @@
 package _02_day_DataType;
 
-public class _004_DataTypeConversion {
+public class _04_DataTypeConversion {
     public static void main(String[] args) {
         //面试题：看下面的程序是否有问题，如果有问题，请指出并说明理由
         byte b1 =3;
